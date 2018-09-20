@@ -1,3 +1,3 @@
 # gitdemo
 
-muokattu visual studio codella
+muokattu atomilla
